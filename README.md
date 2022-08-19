@@ -1,3 +1,4 @@
+![IRIS](https://github.com/punitshah06/IRIS/blob/main/OIP.jpeg)
 # IRIS
 IRIS is a project that deals with classfication of flowers based on the petal and sepal features. 
 Dataset : I used the IRIS dataset.
